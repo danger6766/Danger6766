@@ -11,16 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Contribution Snake Animation](https://raw.githubusercontent.com/danger6766/danger6766/main/dist/github-contribution-grid-snake.svg)
-
-</div>
+- ⚡ Fun fact: ..
 
 ---
 
