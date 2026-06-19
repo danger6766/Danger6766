@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Contribution Snake Animation](https://raw.githubusercontent.com/officialDangerboy/officialDangerboy/main/dist/github-contribution-grid-snake.svg)
+![Contribution Snake Animation](https://raw.githubusercontent.com/danger6766/danger6766/main/dist/github-contribution-grid-snake.svg)
 
 </div>
 
