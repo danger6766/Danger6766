@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **danger6766/Danger6766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Contribution Snake Animation](https://raw.githubusercontent.com/officialDangerboy/officialDangerboy/main/dist/github-contribution-grid-snake.svg)
+
+</div>
+
+---
