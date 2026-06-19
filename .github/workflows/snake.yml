@@ -28,3 +28,11 @@ jobs:
         with:
           name: snake-svg
           path: dist
+
+      - name: Push snake animation
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git commit -m "🐍 Update contribution snake animation" || true
+          git push
